@@ -2614,6 +2614,10 @@
 				width: 100%;
 				border-radius: 4px;
 				overflow: hidden;
+				background-size: cover;
+			    background-repeat: no-repeat;
+			    background-position: center center;
+			    padding-top: 90%;
 			}
 
 				.tiles article > .image img {
@@ -2658,7 +2662,7 @@
 					left: 0;
 					width: 100%;
 					height: 100%;
-					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 0.25px%3B stroke: %23ffffff%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='100' y2='100' /%3E%3Cline x1='100' y1='0' x2='0' y2='100' /%3E%3C/svg%3E");
+					/*background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 0.25px%3B stroke: %23ffffff%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='100' y2='100' /%3E%3Cline x1='100' y1='0' x2='0' y2='100' /%3E%3C/svg%3E");*/
 					background-position: center;
 					background-repeat: no-repeat;
 					background-size: 100% 100%;
@@ -2728,6 +2732,10 @@
 					.tiles article > a .content > :last-child {
 						margin-bottom: 0;
 					}
+
+			.tiles article > .image:before {
+				background-color: rgba(0,0,0,0.4);
+			}
 
 			.tiles article.style1 > .image:before {
 				background-color: #f2849e;
@@ -3216,12 +3224,12 @@
 			}
 
 			#footer > .inner section:nth-child(1) {
-				width: calc(66% - 2.5em);
+				width: calc(50% - 2.5em);
 				margin-right: 2.5em;
 			}
 
 			#footer > .inner section:nth-child(2) {
-				width: calc(33% - 2.5em);
+				width: calc(50% - 2.5em);
 				margin-left: 2.5em;
 			}
 
@@ -3259,12 +3267,12 @@
 			}
 
 				#footer > .inner section:nth-child(1) {
-					width: calc(66% - 1.25em);
+					width: calc(50% - 1.25em);
 					margin-right: 1.25em;
 				}
 
 				#footer > .inner section:nth-child(2) {
-					width: calc(33% - 1.25em);
+					width: calc(50% - 1.25em);
 					margin-left: 1.25em;
 				}
 
@@ -3273,12 +3281,12 @@
 		@media screen and (max-width: 980px) {
 
 			#footer > .inner section:nth-child(1) {
-				width: 66%;
+				width: 50%;
 				margin-right: 0;
 			}
 
 			#footer > .inner section:nth-child(2) {
-				width: calc(33% - 2.5em);
+				width: calc(50% - 2.5em);
 				margin-left: 2.5em;
 			}
 

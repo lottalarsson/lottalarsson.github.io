@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test 2"
+image: images/popup-stage.jpg
+---
+![Stage](/images/popup-stage.jpg)
+
+Description.

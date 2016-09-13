@@ -12,13 +12,12 @@ Enklast är att skapa och ändra filer direkt på Github. Det går också att la
 Ladda upp bilder till mappen `images`.
 
 ### Skapa projekt-sida
-Skapa en ny fil i mappen `_posts`. Döp filen enligt `YYYY-MM-DD-projektnamn.md`.
+Skapa en ny fil i mappen `_posts`. Döp filen enligt `YYYY-MM-DD-projektnamn.md`, där YYYY-MM-DD är ett datum för projektet (endast år kommer att synas på sidan).
 
 Innehållet i filen ska se ut såhär:
 
     ---
 	title:  "Projektnamn"
-	date:   2016-06-26 16:18:00 +1000
 	description: Denna beskrivning kommer att visas på startsidan
 	image: images/kandidat.jpg
 	layout: post

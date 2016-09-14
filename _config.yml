@@ -18,3 +18,4 @@ github_username:  lottalarsson
 
 # Build settings
 markdown: kramdown
+permalink: /:categories/:year/:title

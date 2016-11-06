@@ -1,7 +1,7 @@
 ---
 title:  ""
 description: proposal for a hotel, conference and public building, Gothenburg
-image: images/hotell.jpg
+image: images/1.jpg
 layout: post
 ---
 Proposal for a multifunctional building in the center of Gothenburg close to Järntorget. 

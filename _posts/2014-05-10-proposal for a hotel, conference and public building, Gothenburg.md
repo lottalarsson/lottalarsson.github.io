@@ -1,5 +1,5 @@
 ---
-title:  "proposal for a hotel, conference and public building, Gothenburg"
+title:  "ROCK"
 description: proposal for a hotel, conference and public building, Gothenburg
 image: images/hotell.jpg
 layout: post

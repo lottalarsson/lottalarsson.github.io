@@ -11,6 +11,6 @@ The proposal utilizes the entire footprint and opens up in two large public room
 one the opens up a view to the harbor. 
 
 Nytt stycke. Lägg in en bild såhär (notera att du måste börja med ett / i filsökvägen):
-![Bildbeskrivning](/images/kandidat.jpg)
+![Bildbeskrivning](/images/hotell.jpg)
 
 Länka till någonting såhär: [Google](http://google.com).

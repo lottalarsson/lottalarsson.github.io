@@ -1,5 +1,6 @@
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+/*@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");*/
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,700');
 
 /*
 	Phantom by HTML5 UP
@@ -1645,8 +1646,8 @@ img {
 /* Type */
 
 	body, input, select, textarea {
-		color: #585858;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		color: #000;
+		font-family: "Fira Mono", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;

@@ -5,12 +5,9 @@ image: images/1.jpg
 layout: post
 ---
 Proposal for a multifunctional building in the center of Gothenburg close to Järntorget. 
-The main function is a hotel complex, combined with a public, resturant, spa and a conferense floor. 
-The area around Järntorget is strongly influences by the ruffnes of the harbour.
+The main function is a hotel complex, combined with a public, restaurant, spa and a conference floor. 
+The area around Järntorget is strongly influenced by the roughness of the harbour.
 The proposal utilizes the entire footprint and opens up in two large public rooms, one that looks over the sqare in front and
-one the opens up a view to the harbor. 
+one that opens up a view to the harbour. 
 
-Nytt stycke. Lägg in en bild såhär (notera att du måste börja med ett / i filsökvägen):
 ![Bildbeskrivning](/images/1.jpg)
-
-Länka till någonting såhär: [Google](http://google.com).

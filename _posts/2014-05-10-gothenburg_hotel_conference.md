@@ -1,7 +1,7 @@
 ---
 title:  "HUB"
 description: Järntorget, Gothenburg
-image: images/9.jpg
+image: images/6.jpg
 layout: post
 ---
 

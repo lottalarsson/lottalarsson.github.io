@@ -28,6 +28,3 @@ one that opens up a view to the harbour.
 
 ![Bildbeskrivning](/images/6.jpg)
 
-
-
-![Bildbeskrivning](/images/7.jpg)

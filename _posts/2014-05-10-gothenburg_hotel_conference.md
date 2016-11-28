@@ -10,7 +10,7 @@ The area around Järntorget is strongly influenced by the roughness of the harbo
 The proposal utilizes the entire footprint and opens up in two large public rooms, one that looks over the sqare in front and
 one that opens up a view to the harbour. 
 
-![Bildbeskrivning](/images/1.jpg)
+![Volym seen from Järntorget](/images/1.jpg)
 
 
 

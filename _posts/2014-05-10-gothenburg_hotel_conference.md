@@ -11,3 +11,9 @@ The proposal utilizes the entire footprint and opens up in two large public room
 one that opens up a view to the harbour. 
 
 ![Bildbeskrivning](/images/1.jpg)
+![Bildbeskrivning](/images/2.jpg)
+![Bildbeskrivning](/images/3.jpg)
+![Bildbeskrivning](/images/4.jpg)
+![Bildbeskrivning](/images/5.jpg)
+![Bildbeskrivning](/images/6.jpg)
+![Bildbeskrivning](/images/7.jpg)

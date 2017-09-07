@@ -12,11 +12,26 @@ The mirrors exposes the dancer moves from all angels.
 
 
 
+
+
+
+
+
 ![](/images/2D.jpg)
 
 
 
+
+
+
+
+
 ![](/images/3D.jpg)
+
+
+
+
+
 
 
 

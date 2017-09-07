@@ -8,7 +8,7 @@ A pop up dance studio designed to fit 20 people on 24kvm.
 The project investigate the relationship between the dancers and the audience. 
 The mirrors exposes the dancer moves from all angels.
 
-![](/images/d.jpg)
+![](/images/1D.jpg)
 ![](/images/d1.jpg)
 ![](/images/d2.jpg)
 ![](/images/d3.jpg)

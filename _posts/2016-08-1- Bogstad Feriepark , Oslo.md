@@ -1,7 +1,7 @@
 ---
 title:  "Bogstad Feriepark"
 description: Project made at LPO architects.
-image: images/1B.jpg
+image: images/3B.jpg
 layout: post
 ---
 Proposal for a new camping close to Oslo.

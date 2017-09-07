@@ -9,6 +9,6 @@ The project investigate the relationship between the dancers and the audience.
 The mirrors exposes the dancer moves from all angels.
 
 ![](/images/1D.jpg)
-![](/images/d1.jpg)
-![](/images/d2.jpg)
-![](/images/d3.jpg)
+![](/images/2D.jpg)
+![](/images/3D.jpg)
+![](/images/4D.jpg)

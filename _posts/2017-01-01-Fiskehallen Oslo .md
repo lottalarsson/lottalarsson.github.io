@@ -1,7 +1,7 @@
 ---
 title:  "Fiskehallen Oslo"
 description: Project made at LPO architects. 
-image: images/1F.jpg
+image: images/3F.jpg
 layout: post
 ---
 Fiskehallen in Oslo has long been an important part of the fish industry. 

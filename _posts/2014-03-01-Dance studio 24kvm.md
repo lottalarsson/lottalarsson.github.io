@@ -10,11 +10,11 @@ The mirrors exposes the dancer moves from all angels.
 
 ![](/images/1D.jpg)
 ---
-
 ![](/images/2D.jpg)
 ---
 The dance studio will have to entries, one for the dancer and one for the audience. 
-![The dance studio will have to entries, one for the dancer and one for the audience. ](/images/4D.jpg)
+![](/images/4D.jpg)
 ---
-When the performance is done the dance studio can be turned into a mingel-are
-![When the performance is done the dance studio can be turned into a mingel-are](/images/3D.jpg)
+When the performance is done the dance studio turnes in to a mingel-area
+![](/images/3D.jpg)
+

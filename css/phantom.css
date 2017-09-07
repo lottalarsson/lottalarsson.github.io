@@ -1681,7 +1681,7 @@ img {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			color: #666 !important;
 		}
 
 	strong, b {
@@ -1697,7 +1697,7 @@ img {
 	}
 
 	h1 {
-		font-size: 2.75em;
+		font-size: 2.25em;
 		font-weight: 700;
 		line-height: 1.3;
 		margin: 0 0 1em 0;
@@ -2330,14 +2330,14 @@ img {
 /* Image */
 
 	.image {
-		border-radius: 4px;
+		/*border-radius: 4px;*/
 		border: 0;
 		display: inline-block;
 		position: relative;
 	}
 
 		.image img {
-			border-radius: 4px;
+			/*border-radius: 4px;*/
 			display: block;
 		}
 
@@ -2606,7 +2606,7 @@ img {
 			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			position: relative;
-			width: calc(33.33333% - 2.5em);
+			width: calc(25% - 2.5em);
 			margin: 2.5em 0 0 2.5em;
 		}
 
@@ -2618,7 +2618,7 @@ img {
 				position: relative;
 				display: block;
 				width: 100%;
-				border-radius: 4px;
+				/*border-radius: 4px;*/
 				overflow: hidden;
 				background-size: cover;
 			    background-repeat: no-repeat;
@@ -2703,7 +2703,7 @@ img {
 				width: 100%;
 				height: 100%;
 				padding: 1em;
-				border-radius: 4px;
+				/*border-radius: 4px;*/
 				border-bottom: 0;
 				color: #ffffff;
 				text-align: center;
@@ -2740,7 +2740,7 @@ img {
 					}
 
 			.tiles article > .image:before {
-				background-color: rgba(0,0,0,0.4);
+				/*background-color: rgba(0,0,0,0.4);*/
 			}
 
 			.tiles article.style1 > .image:before {
@@ -2789,7 +2789,7 @@ img {
 			}
 
 		* + .tiles {
-			margin-top: 2em;
+			/*margin-top: 1em;*/
 		}
 
 		body.is-loading .tiles article {
@@ -2867,7 +2867,7 @@ img {
 /* Header */
 
 	#header {
-		padding: 3em 0 0.1em 0 ;
+		padding: 2em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -2876,7 +2876,7 @@ img {
 			color: inherit;
 			font-weight: 900;
 			letter-spacing: 0.35em;
-			margin: 0 0 2.5em 0;
+			margin: 0 0 2em -0.5em;
 			text-decoration: none;
 			text-transform: uppercase;
 			display: inline-block;
